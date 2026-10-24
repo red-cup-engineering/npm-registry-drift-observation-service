@@ -31,7 +31,7 @@
     "@red-cup-engineering/npm-registry-read-service": "workspace:*"
   },
   "devDependencies": {
-    "@red-cup-engineering/jsnode-package-services-section": "workspace:*"
+    "@red-cup-engineering/jsnode-package-engineering-services-section": "workspace:*"
   },
   "repository": {
     "type": "git",
